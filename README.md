@@ -1,4 +1,4 @@
-    ##  Books List
+    Books List
 
     Code Complete (2nd edition) by Steve McConnell
     The Pragmatic Programmer
@@ -81,7 +81,6 @@
     Effective Java by Joshua Bloch
     Computability by N. J. Cutland
     Masterminds of Programming
-    The Tao Te Ching
     The Productive Programmer
     The Art of Deception by Kevin Mitnick
     The Career Programmer: Guerilla Tactics for an Imperfect World by Christopher Duncan
