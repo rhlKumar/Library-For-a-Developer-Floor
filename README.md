@@ -1,4 +1,4 @@
-
+    ##  Books List
 
     Code Complete (2nd edition) by Steve McConnell
     The Pragmatic Programmer
@@ -95,4 +95,10 @@
     No Bugs! by David Thielen
     Rework by Jason Freid and DHH
     JUnit in Action
+    Designing Web Usability : The Practice of Simplicity - Jakob Neilsen
+    Mastering Regular Expressions, Second Edition
+    The Dynamics of Software Development
+    Walting with Bears
+    Prioritizing Web Usability
+    Continuous Delivery - Jez Humble
 
