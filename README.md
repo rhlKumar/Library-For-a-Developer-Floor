@@ -1,9 +1,13 @@
 ##Books List
-
+    
+    The Architecture of Open Source Applications - I
+    The Architecture of Open Source Applications - II
+    The Performance of Open Source Applications
     Code Complete (2nd edition) by Steve McConnell
     The Pragmatic Programmer
     Structure and Interpretation of Computer Programs
     The C Programming Language by Kernighan and Ritchie
+    The Algorithm Design Manual
     Introduction to Algorithms by Cormen, Leiserson, Rivest & Stein
     Design Patterns by the Gang of Four
     Refactoring: Improving the Design of Existing Code
@@ -64,6 +68,7 @@
     Object Thinking by Dr. David West
     Advanced Programming in the UNIX Environment by W. Richard Stevens
     Hackers and Painters: Big Ideas from the Computer Age
+    Hacker's Delight
     The Soul of a New Machine by Tracy Kidder
     CLR via C# by Jeffrey Richter
     GUI Bloopers: Don'ts and Do's for Software Developers and Web Designers
@@ -100,7 +105,7 @@
     Walting with Bears
     Prioritizing Web Usability
     Continuous Delivery - Jez Humble
-    
+###### HeadFirst    
 ###### Java
 ###### C\#
 ###### C++
