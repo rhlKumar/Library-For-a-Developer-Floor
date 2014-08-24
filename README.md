@@ -1,4 +1,4 @@
-    Books List
+##Books List
 
     Code Complete (2nd edition) by Steve McConnell
     The Pragmatic Programmer
@@ -100,4 +100,15 @@
     Walting with Bears
     Prioritizing Web Usability
     Continuous Delivery - Jez Humble
+    
+###### Java
+###### C\#
+###### C++
+###### Javascript
+###### Productivity
+###### SDLC
+###### Best Practices
+###### Designing
+###### Web Design/Usability
+
 
