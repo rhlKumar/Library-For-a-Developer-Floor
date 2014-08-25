@@ -105,6 +105,28 @@
     Walting with Bears
     Prioritizing Web Usability
     Continuous Delivery - Jez Humble
+    The Visual Display of Quantitative Information - Edward Tufte
+    The Innovator's Dilemma and The Innovator's Solution - Clayton Christensen and Michael Raynor
+    Scientific Advertising - Claude Hopkins
+    The Elements of Style - William Strunk 
+    On Writing Well - William Zinsser 
+    Ecological Approach to Visual Perception - J.J. Gibson
+    The Way Things Are - Lama Ole Nydahl
+    Test-Driven Development by Example - Kent Beck
+    Teach Yourself Programming in Ten Years - Peter NORVIG
+    Eloquent JavaScript - Marijn Haverbeke (2007)
+    Thinking in C++ - Bruce Eckel (2000)
+    Real World Haskell - Bryan O'Sullivan, Don Stewart, John Goerzen (2008)
+    Purely Functional Data Structures - Chris Okasaki (1996)
+    Algorithms - Robert Sidwick
+    Algorithm Design by Kleinberg and Tardos 
+    Applied Cryptography: Protocols, Algorithms, and Source Code - Bruce Schneier
+    Inside C# - Tom Archer and Andrew Whitechapel
+    Service-Oriented Architecture: A Planning and Implementation Guide for Business and Technology -Eric A. Marks, Michael Bell 
+    Release It
+    Lean Startup
+    Management 3.0
+    
 ###### HeadFirst    
 ###### Java
 ###### C\#
