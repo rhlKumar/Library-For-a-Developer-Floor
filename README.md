@@ -2,11 +2,13 @@
     Effective Java by Joshua Bloch
     JUnit in Action
     Thinking in Java by Bruce Eckel
+    Java Puzzlers: Traps, Pitfalls, and Corner Cases
     HeadFirst Java
 ###### C#
     CLR via C# by Jeffrey Richter
     Design Patterns in C# by Steve Metsker
     Inside C# - Tom Archer and Andrew Whitechapel
+    C# in Depth - Jon Skeet
     Agile Principles, Patterns, and Practices in C# by Robert C. Martin
     Pragmatic Unit Testing in C# with NUnit by Andy Hunt and Dave Thomas with Matt Hargett
 ###### C++
@@ -19,6 +21,7 @@
 ###### Javascript
     Eloquent JavaScript - Marijn Haverbeke (2007)
     JavaScript - The Good Parts
+    JavaScript: The Definitive Guide - David Flanagan
 ###### Productivity And Best Practices
     The Mythical Man Month
     Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin
