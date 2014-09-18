@@ -3,7 +3,6 @@
     JUnit in Action
     Thinking in Java by Bruce Eckel
     Java Puzzlers: Traps, Pitfalls, and Corner Cases
-    HeadFirst Java
 ###### C#
     CLR via C# by Jeffrey Richter
     Design Patterns in C# by Steve Metsker
